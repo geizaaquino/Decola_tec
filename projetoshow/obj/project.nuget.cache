@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AX2VHFSIrV9CavL65AJ9oKBZ8touEi6wBdVRz4uaefFHC5799Em7ROW4s6f7Kygtg+DtBOjsY+pOQT2pPqVlfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Área de Trabalho\\projeto\\dio-dotnet-poo-lab-2-master\\projetoshow\\DIO.Show.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
